@@ -14,7 +14,7 @@ Este projeto é uma versão aprimorada do analisador de cariótipo automatizado,
 2. Clone o repositório e instale as dependências:
 
    ```
-   git clone https://github.com/ezrafchev/cariotipo-completo-biopython-wgdi.git
+   git clone https://github.com/ezrafchev/cariotipos-analise-profunda.git
    cd cariotipo-completo-biopython-wgdi
    pip install opencv-python numpy scipy biopython wgdi
    ```
